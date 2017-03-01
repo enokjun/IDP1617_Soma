@@ -2,7 +2,8 @@
 IDP geotechnical individual report - instructions
 
 Note:
-The soil profile csv files are uploads to show the format of soil parameters and characteristic values are used.
+> The soil profile csv files are uploads to show the format of soil parameters and characteristic values are used.
+> If you view the code from the github console, please ignore the ^M sign in the code, they irrelevent and would not appear if you view the code after you download the files
 
 To run the matlab for geotechnical design:
 1- download both Y1 and Y5 or Z1 and Z5 with the soil profile (AA1 and AA2)
